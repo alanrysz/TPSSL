@@ -59,7 +59,8 @@ escribe en stdout las siguientes líneas:
 \t\t 100\n
 ¿Por qué stdout1 es diferente a stdout2? Notar que la primer línea tiene 3 grupos y las siguientes uno
 menos (como máximo). Analizar la necesidad de precondiciones.
-Operaciones Aritméticas
+
+# Operaciones Aritméticas
 11. Sumar : NumeroAstronomico × NumeroAstronomico → NumeroAstronomico
 12. SonIguales : NumeroAstronomico × NumeroAstronomico → Boolean
 13. EsMenor : NumeroAstronomico × NumeroAstronomico → Boolean
